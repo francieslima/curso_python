@@ -1,0 +1,4 @@
+teste arquivo
+Arquivo aberto
+Arquivo lido
+Arquivo fechado
